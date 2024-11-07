@@ -197,7 +197,7 @@ Make sure both the frontend and backend servers are running simultaneously to te
 
 ## Screenshots
 
-_Add screenshots of your application here to showcase its functionality._
+_Are to be added._
 
 ## Contributing
 
